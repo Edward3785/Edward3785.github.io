@@ -8,3 +8,11 @@ This is my school account for GitHub as I have never made an account before on G
 The repository I have created will be there to keep the assignments I receive in this class and any other extra requirements this class may have.
 
 MrsP
+
+#About Me
+
+##My Interests
+
+
+##Websites I Recommend
+
