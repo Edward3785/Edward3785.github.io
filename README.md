@@ -12,7 +12,9 @@ MrsP
 # About Me #
 
 ## My Interests ##
+_I mainly enjoy running outside if it wasn't freezing everyday. I also enjoy playing card games such as blackjack._
 
 
 ## Websites I Recommend ##
+
 
