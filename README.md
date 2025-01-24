@@ -10,9 +10,10 @@ The repository I have created will be there to keep the assignments I receive in
 MrsP
 
 # About Me #
+_My name is Edward Michael. I'm currently 18 soon to be 19 and I graduated from Athens Drive._
 
 ## My Interests ##
-_I mainly enjoy running outside if it wasn't freezing everyday. I also enjoy playing card games such as blackjack._
+_I mainly enjoy running outside if it wasn't freezing everyday. I also enjoy playing card games such as blackjack. I want to work with computers because of the large variety of job options that are available because of it._
 
 
 ## Websites I Recommend ##
