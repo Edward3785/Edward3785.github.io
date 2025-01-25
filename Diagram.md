@@ -10,9 +10,11 @@
      D --> G[Eat some food or get some food driving to your destination]
      G --> E
      D --> E[Look in your bag to see if you have everything you need]
-     E --> z
-     B --> z[Have a good day]
+     E --> H[Find out what you don't have]
+     H --> Z
+     E --> Z[Have a good day]
 
+    
 
 ```
 
