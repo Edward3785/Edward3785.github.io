@@ -4,10 +4,12 @@
  flowchart TD;
      A[Start your morning]-->B{Are you ready for the day?};
      B --> C[Check if you brushed your teeth]
+     C --> F[Brush your teeth]
+     F --> D
      C --> D[Make sure you had breakfast]
      D --> E[Look in your bag to see if you have everything you need]
-     E --> F
-     B --> F[Have a good day]
+     E --> z
+     B --> z[Have a good day]
 
 
 ```
