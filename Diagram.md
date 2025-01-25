@@ -6,6 +6,10 @@
      B --> C[Check if you brushed your teeth]
      C --> D[Brush your teeth]
      C --> E[You did]
+     D --> F[Make sure you had breakfast]
+     E --> F
+
+     
      
     
     
