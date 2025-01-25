@@ -1,19 +1,13 @@
-# Flowchart #
+# Getting Started in the morning #
 
 ```mermaid
  flowchart TD;
      A[Start your morning]-->B{Are you ready for the day?};
      B --> C[Check if you brushed your teeth]
-     C --> F[Brush your teeth]
-     F --> D
-     C --> D[Make sure you had breakfast]
-     D --> G[Eat some food or get some food driving to your destination]
-     G --> E
-     D --> E[Look in your bag to see if you have everything you need]
-     E --> H[Find out what you don't have]
-     H --> Z
-     E --> Z[Have a good day]
-
+     C --> D[Brush your teeth]
+     C --> E[You did]
+     
+    
     
 
 ```
@@ -21,3 +15,5 @@
 * A * Program loads
 
 * B * Check to see if it's working
+
+ 
