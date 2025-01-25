@@ -7,6 +7,8 @@
      C --> F[Brush your teeth]
      F --> D
      C --> D[Make sure you had breakfast]
+     D --> G[Eat some food or get some food driving to your destination]
+     G --> E
      D --> E[Look in your bag to see if you have everything you need]
      E --> z
      B --> z[Have a good day]
