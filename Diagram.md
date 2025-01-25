@@ -12,6 +12,10 @@
      F --> H[You did]
      G --> I[Look in your bag to see if you have everything]
      H --> I
+     I --> J[Get whatever you don't have]
+     I --> K[You have everything]
+     J --> L[Enjoy your day]
+     K --> L
 
      
      
