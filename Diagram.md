@@ -8,6 +8,10 @@
      C --> E[You did]
      D --> F[Make sure you had breakfast]
      E --> F
+     F --> G[Eat some food or get some food driving to your destination]
+     F --> H[You did]
+     G --> I[Look in your bag to see if you have everything]
+     H --> I
 
      
      
