@@ -22,15 +22,3 @@ A website I recommend is [Wikipedia](https://www.wikipedia.org/) - While it may 
 Another website I use often is [Youtube](https://www.youtube.com/) - It's useful for finding information and also good for some entertainment. A good way to waste a day. 
 
 
-# Mermaid Test #
-
-```mermaid
- flowchart TD;
-     A[Start]-->B{Is it working};
-
-
-```
-
-*A* Program loads
-
-*B* Check to see if it's working
