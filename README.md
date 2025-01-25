@@ -25,9 +25,12 @@ Another website I use often is [Youtube](https://www.youtube.com/) - It's useful
 # Mermaid Test #
 
 ```mermaid
- graph TD;
-     A-->B;
-     A-->C:
-     A-->D;
+ flowchart TD;
+     A[Start]-->B{Is it working};
+
 
 ```
+
+*A* Program loads
+
+*B* Check to see if it's working
