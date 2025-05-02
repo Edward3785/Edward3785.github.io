@@ -7,14 +7,14 @@ function fetchGradeData() {
 	
 	xhr.onreadystatechange = function(){
 		let results;
-		if(xhr.readyState === xhr.DONE){
-			if(xhr.status !== 200){
-				console.error('Could not get grades.
-					Status: $(xhr.status}');
+		if(xhr.readyState === XMLHttpRequest.DONE){
+			if(xhr.status !== 200) {
+				console.error('Could not get grades. Status: ${xhr.status}');
+				return;
 			}
 			populateGradebook(JSON.parse(xhr.responseText));
-			}
-	}.bind(this);
+		}
+	};
 	xhr.open("get", apiRoute, true);
 	xhr.send();
 }
