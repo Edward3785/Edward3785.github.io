@@ -43,5 +43,5 @@ function populateGradebook(data) {
 		});
 }
 
-
-fetchGradeData();
+const gradeData = fetchGradeData();
+populateGradebook(gradeData);
