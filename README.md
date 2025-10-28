@@ -21,5 +21,5 @@ A website I recommend is [Wikipedia](https://www.wikipedia.org/) - While it may 
 
 Another website I use often is [Youtube](https://www.youtube.com/) - It's useful for finding information and also good for some entertainment. A good way to waste a day. 
 
-## My Experience using Github ##
-saodkjfasdk;flj
+## My Experience using Github and how it could be useful ##
+My experience using GitHub has been very good. Part of this is simply because I have used it before for a previous class so I already have some GitHub experience but nonetheless using GitHub has easy and efficient. Also GitHub can help me collaborate with others in the future and its a good way to build a strong porfolio while im still in college.
